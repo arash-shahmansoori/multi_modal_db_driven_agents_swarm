@@ -2,7 +2,7 @@
 
 ![A Hierarchical Swarm of Agents.](assets/multi_modal_db_driven_swarm.png)
 
-The implementation of: ``**Orchestrating Harmony: A Hierarchical Swarm of Agents in a Concurrent, Multi-Modal, and Database-Driven Symphony''**. 
+The implementation of: ``**Orchestrating Harmony: A Hierarchical Swarm of Agents in a Concurrent, Multi-Modal, and Database-Driven Symphony''**. https://medium.com/@arash.mansoori65/orchestrating-harmony-a-hierarchical-swarm-of-agents-in-a-concurrent-multi-modal-and-918899062b8d
 
 ## Description of the Proposed Method
 The proposed hierarchical swarm agent system is a novel and sophisticated framework designed for efficient task decomposition, concurrent content generation and analysis, and robust agent interaction through a well-integrated database system. This approach leverages a Controller Agent, a Generator Agent, an Analyzer Agent, and a database to accomplish high-quality, multi-modal content generation tasks—demonstrated here using image generation and analysis to showcase the method's competency.
